@@ -28,6 +28,7 @@ public class GUI_Book extends JFrame implements ActionListener, MouseListener {
 	/**
 	 * 
 	 */
+	// trấn
 	private JTextField txtMa;
 	private JTextField txtTua;
 	private JTextField txtNamXB;
